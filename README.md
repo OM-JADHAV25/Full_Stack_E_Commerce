@@ -11,14 +11,14 @@ Database: MySQL (Spring Data JPA for persistence)
 Payment Gateway: Razorpay Integration
 
 # Key Features
- User Authentication – Secure login, registration, and profile management,
- Product Management – Browse, filter, and search products with categories,
- Shopping Cart – Add, remove, and update items before checkout,
- Order Processing – Track orders and payment status,
- Payment Integration – Secure transactions via Razorpay,
- Responsive UI – Optimized for desktop, tablet, and mobile using Tailwind CSS,
- State Management – Efficiently handled using Redux,
- Database Operations – Optimized queries with JPA & Hibernate,
+✅ User Authentication – Secure login, registration, and profile management,
+✅ Product Management – Browse, filter, and search products with categories,
+✅ Shopping Cart – Add, remove, and update items before checkout,
+✅ Order Processing – Track orders and payment status,
+✅ Payment Integration – Secure transactions via Razorpay,
+✅ Responsive UI – Optimized for desktop, tablet, and mobile using Tailwind CSS,
+✅ State Management – Efficiently handled using Redux,
+✅ Database Operations – Optimized queries with JPA & Hibernate,
 
 # Learning Objectives
 🔹 Full-Stack Development – Integration of React.js frontend with Spring Boot backend
